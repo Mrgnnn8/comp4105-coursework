@@ -1,4 +1,4 @@
-# Country Guessing Game — An Adversarial Multi-Agent LLM System
+# Country Guessing Game — An LLM-agent Evaluation System
 
 An LLM-agent system implementing a country guessing game, used to investigate whether LLM agents operate at the information-theoretically optimal decision boundary. Three Seeker variants (Zero-Shot, Planning, Tree of Thoughts) compete against a deterministic Oracle, with performance benchmarked against an information-theoretic optimum.
 
